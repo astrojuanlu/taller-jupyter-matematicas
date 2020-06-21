@@ -2,6 +2,8 @@
 
 Uso de Jupyter para enseñanza de materias técnicas.
 
+Lanzar en la nube [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astrojuanlu/taller-jupyter/master)
+
 ## Temario
 
 - Introducción a Jupyter Notebook y JupyterLab
