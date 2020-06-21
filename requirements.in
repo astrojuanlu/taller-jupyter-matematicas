@@ -1,0 +1,7 @@
+ipywidgets
+jupytext
+notebook
+numpy>=1.16  # As per NEP 29
+plotly
+rise
+sympy
