@@ -13,6 +13,10 @@ Lanzar en la nube [![Binder](https://mybinder.org/badge_logo.svg)](https://mybin
 - Plots interactivos con Plotly
 - Export a HTML y slides de Reveal.js
 
+## Fecha
+
+2020-10-17T14:00Z (11:00 hora de Argentina, 16:00 hora peninsular de España)
+
 ## Duración
 
 2 horas
