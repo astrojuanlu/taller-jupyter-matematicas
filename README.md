@@ -44,7 +44,7 @@ Lanzar en la nube [![Binder](https://mybinder.org/badge_logo.svg)](https://mybin
 - El equipo organizador estará monitorizando el chat del streaming para responder sus preguntas
   - Necesitarán una cuenta en Twitch.tv
 - El vídeo quedará subido en [**YouTube** / @astrojuanlu](https://www.youtube.com/channel/UCvx0swtjrEm7_OkyvMowXmQ) (¡suscríbanse!)
-- Para estar al tanto de futuras actividades, pueden unirse al grupo de **Telegram** de `@scipyla` https://t.me/scipyla
+- Para estar al tanto de futuras actividades, pueden unirse a [**Telegram** / scipyla](https://t.me/scipyla)
 
 ---
 
