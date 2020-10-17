@@ -15,7 +15,12 @@ Lanzar en la nube [![Binder](https://mybinder.org/badge_logo.svg)](https://mybin
 
 ## Fecha
 
-2020-10-17T14:00Z (11:00 hora de Argentina, 16:00 hora peninsular de España)
+**2020-10-17T14:00Z**
+
+- 09:00 Colombia, Perú, Ecuador (UTC-05)
+- 10:00 Bolivia, Venezuela (UTC-04)
+- 11:00 Chile, Argentina, Uruguay (UTC-03)
+- 16:00 España (UTC+02 peninsular)
 
 ## Duración
 
@@ -26,5 +31,12 @@ Lanzar en la nube [![Binder](https://mybinder.org/badge_logo.svg)](https://mybin
 - Matemática de secundario
 - Informática básica
 - Ordenador (computadora) con acceso a Internet
+
+## Material + Acceso a Jupyter
+
+- **¡No hace falta instalar nada!** Solo un navegador y acceso a Internet
+- Han recibido por correo electrónico instrucciones para acceder al Servidor Privado Virtual (VPS) que contiene el despliegue de JupyterHub
+- Si no lo han recibido o no funciona, pueden lanzar un servidor Jupyter en la nube usando **Binder**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astrojuanlu/taller-jupyter/master)
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Este trabajo está disponible bajo licencia <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 Internacional</a>.
