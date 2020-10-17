@@ -43,8 +43,9 @@ nbformat==5.0.7           # via ipywidgets, jupyter-server, jupytext, nbclient, 
 nbgrader==0.6.1           # via -r requirements.in
 nest-asyncio==1.4.1       # via nbclient
 notebook==6.0.3           # via -r requirements.in, jupyter, nbgrader, rise, widgetsnbextension
-numpy==1.19.0             # via -r requirements.in
+numpy==1.19.0             # via -r requirements.in, pandas
 packaging==20.4           # via bleach
+pandas==1.1.3             # via -r requirements.in
 pandocfilters==1.4.2      # via nbconvert
 parso==0.7.0              # via jedi
 pathspec==0.8.0           # via black
@@ -57,8 +58,9 @@ ptyprocess==0.6.0         # via pexpect, terminado
 pygments==2.6.1           # via ipython, jupyter-console, jupyterlab-pygments, nbconvert, qtconsole
 pyparsing==2.4.7          # via packaging
 pyrsistent==0.16.0        # via jsonschema
-python-dateutil==2.8.1    # via alembic, jupyter-client, nbgrader
+python-dateutil==2.8.1    # via alembic, jupyter-client, nbgrader, pandas
 python-editor==1.0.4      # via alembic
+pytz==2020.1              # via pandas
 pyyaml==5.3.1             # via jupytext
 pyzmq==19.0.1             # via jupyter-client, jupyter-server, notebook, qtconsole
 qtconsole==4.7.7          # via jupyter

@@ -4,6 +4,7 @@ jupytext
 nbgrader
 notebook
 numpy>=1.16  # As per NEP 29
+pandas
 plotly
 rise
 sympy
