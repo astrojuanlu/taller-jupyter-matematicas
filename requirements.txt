@@ -29,7 +29,7 @@ jsonschema==3.2.0         # via nbformat, nbgrader
 jupyter-client==6.1.7     # via ipykernel, jupyter-console, jupyter-server, nbclient, nbgrader, notebook, qtconsole, voila
 jupyter-console==6.2.0    # via jupyter
 jupyter-core==4.6.3       # via jupyter-client, jupyter-server, nbconvert, nbformat, nbgrader, notebook, qtconsole
-jupyter-server==1.0.5     # via voila
+jupyter-server==1.0.6     # via voila
 jupyter==1.0.0            # via nbgrader
 jupyterlab-pygments==0.1.2  # via nbconvert
 jupytext==1.5.0           # via -r requirements.in
