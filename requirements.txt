@@ -22,7 +22,7 @@ backcall==0.2.0
     # via ipython
 black==19.10b0
     # via -r requirements.in
-bleach==3.1.5
+bleach==3.3.0
     # via nbconvert
 certifi==2020.6.20
     # via requests
