@@ -205,7 +205,7 @@ python-editor==1.0.4
     # via alembic
 pytz==2020.1
     # via pandas
-pyyaml==5.3.1
+pyyaml==5.4
     # via jupytext
 pyzmq==19.0.1
     # via
